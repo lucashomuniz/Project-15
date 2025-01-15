@@ -22,5 +22,5 @@ One notable achievement of the analysis is the identification of outliers within
 
 Furthermore, the emphasis on finding alternative solutions when faced with challenges underscores the adaptability and problem-solving skills inherent in successful business analysis. In the described scenario, when confronted with incomplete data, the team did not succumb to obstacles but instead devised a solution involving statistical sampling, Python scripting, and the utilization of the DAX language to create measures. This innovative approach not only enabled the project to proceed but also added depth and accuracy to the final Business Intelligence report. In essence, the work of a Business Analyst involves navigating complex datasets, extracting meaningful insights, and presenting them in a format that empowers decision-makers. The culmination of these efforts, as evidenced in the refined BI report, provides a valuable tool for strategic planning, informed decision-making, and a deeper understanding of the factors influencing sales trends within the organization.
 
-![Screenshot 2024-02-14 at 11 54 26](https://github.com/lucashomuniz/Project-15/assets/123151332/0b4cb230-8f21-4fa1-88c9-a48284dd1399)
+![Screenshot 2025-01-15 at 16 06 38](https://github.com/user-attachments/assets/e9d424a5-0a7e-4a3b-867f-8efef3d53cfa)
 
