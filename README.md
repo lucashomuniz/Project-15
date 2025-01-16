@@ -2,7 +2,9 @@
 
 The primary goal was to compare the average product sales during an exclusive promotional period in 2023 with the sales forecast for 2024. Leveraging advanced technologies, we will employ Google BigQuery as our serverless data warehouse, utilizing SQL queries to efficiently process and analyze large datasets. The Google Cloud Platform will serve as our comprehensive infrastructure, facilitating seamless integration and analysis. Additionally, Python will play a pivotal role in data manipulation and scripting, enhancing the overall analytical capabilities. Furthermore, the project involves employing the DAX (Data Analysis Expressions) language to gain deeper insights into our data. This multi-faceted approach ensures a robust and thorough examination of sales performance, empowering stakeholders to make informed decisions and shape future business strategies.
 
-Keywords: PowerBI, PowerQuery, DAX, Google Cloud Plataform, Business Analytics, Python Language, Data Visualization, Data Analysis.
+**Keywords**: PowerBI, PowerQuery, DAX, Google Cloud Plataform, Business Analytics, Python Language, Data Visualization, Data Analysis.
+
+**Dashboard Link**: https://app.powerbi.com/groups/me/reports/31652650-9e4a-49b3-ad47-4a82c8c5f60a?ctid=18a01ad8-9727-498a-a47d-17374c6fd9f7&pbi_source=linkShare
 
 # ✅ PROCESS
 
